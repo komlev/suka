@@ -4,4 +4,4 @@ Utility helper for developers.
 
 
 Better use with [blya]
-[blya] https://github.com/komlev/blya
+[blya]: https://github.com/komlev/blya
